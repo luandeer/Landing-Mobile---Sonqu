@@ -1,0 +1,41 @@
+/**header**/
+#texto-header-1{
+    display: block;
+    font-size: 25px;
+}
+#texto-header-2{
+    display: block;
+}
+#texto-header-3{
+    display: block;
+    width: 364px;
+}
+
+/**main 1**/
+h2{
+    font-size: 25px;
+}
+.contenedor-cursos{
+    overflow: hidden;
+    padding: 10px;
+    justify-content: center;
+}
+
+.contenedor-cursos-elementos{
+    max-width: 200px;
+    
+}
+
+/**main 2**/
+.contenedor-redes-sociales{
+    overflow: hidden;
+    padding: 10px;
+    gap: 10px;
+}
+.contenedor-redes-sociales-elementos{
+    width: 50%;
+}
+#content{
+    overflow: hidden;
+    padding: 10px;
+}
