@@ -35,7 +35,10 @@ h2{
 .contenedor-redes-sociales-elementos{
     width: 50%;
 }
+
+/**main 3**/
 #content{
     overflow: hidden;
     padding: 10px;
 }
+
